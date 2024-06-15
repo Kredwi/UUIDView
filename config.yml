@@ -1,0 +1,6 @@
+message-no-permission: "§cYou do not have permission to do this."
+message-uuid: "§7%nickname% UUID: §6%uuid%"
+message-not-player: "§cPlayer not found."
+specify-player: "§cPlease specify a player name."
+config-reloaded: "§2Config successfully reloaded."
+command-usage: "§cUsage: /uuidview <command> <arg>"

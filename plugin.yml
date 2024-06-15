@@ -1,0 +1,16 @@
+name: UUIDView
+version: 1.0.0
+api-version: 1.21
+main: ru.kredwi.uuidview.Main
+commands:
+  uuidview:
+    description: "Main plugin command"
+    usage: /<command> [player_name]
+    permission: uuidview.use
+permissions:
+  uuidview.use:
+    description: "Permission for all"
+    default: op
+  uuidview.reload:
+    description: "Permission for reload config"
+    default: op
